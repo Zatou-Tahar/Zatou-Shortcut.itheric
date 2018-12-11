@@ -1,1 +1,1 @@
-# Zatou-Shortcut.itheric
+# Zatou-Shortcut.itheric.js
